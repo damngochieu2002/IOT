@@ -4,7 +4,7 @@ from Adafruit_IO import MQTTClient
 
 
 class Adafruit_MQTT:
-    AIO_FEED_IDs = ["button1", "button2"]
+    AIO_FEED_IDs = ["nutnhan1","nutnhan2"]
     AIO_USERNAME = "tqhung231"
     # Check if key.txt exists
     try:
