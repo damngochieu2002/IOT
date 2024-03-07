@@ -3,6 +3,8 @@ from Adafruit_IO import MQTTClient
 import time
 import random
 
+
+#hello 
 AIO_FEED_IDs = ["nutnhan1","nutnhan2"]
 AIO_USERNAME = "KietHuynh0810"
 AIO_KEY = "aio_dUQn54Z3MG8ZvDaTgY2DH1xtFRw9"
