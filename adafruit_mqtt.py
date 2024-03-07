@@ -12,7 +12,7 @@ class Adafruit_MQTT:
             AIO_KEY = f.read()
     except:
         # Dummy key
-        AIO_KEY = "aio_hSTD28Ft6JP4rmstd4f1KnbSwIrM"
+        AIO_KEY = "aio_blwF22MCdTer6YIImnTUEluEUymx"
 
     def connected(self, client):
         print("Connected ...")
